@@ -1,20 +1,7 @@
-# Project Name
-
-## Description
-
-Briefly describe what your project does. What problems does it solve? What is its main functionality?
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-Provide step-by-step instructions on how to install your project. Include any dependencies that need to be installed.
-
-```bash
-# Example installation commands
-npm install
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
